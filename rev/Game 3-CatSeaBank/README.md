@@ -25,7 +25,7 @@ It is a unity game under the rev category, so it's clear that we hav
 
 
 
-![App Screenshot]("C:\Users\phant\OneDrive\Desktop\copsproj\Game 3-CatSeaBank\attachments\flag.png")
+![App Screenshot](flag.png)
 
 ## Flag
 
